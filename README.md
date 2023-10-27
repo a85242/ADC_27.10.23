@@ -1,2 +1,4 @@
 # ADC_27.10.23
-VSC
+Este repositório serve para aprender sobre git.
+
+### (VSC)
