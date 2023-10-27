@@ -1,4 +1,7 @@
 # ADC_27.10.23
-Este repositório serve para aprender sobre git.
+## Introdução
+**Git** :)
+### Objetivos
+Este repositório serve para aprender _sobre_ *git*.
 
-### (VSC)
+(VSC)
